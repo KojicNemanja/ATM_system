@@ -1,1 +1,0 @@
-java -jar my-app-1.0.jar
